@@ -74,10 +74,10 @@ In this project, I analyzed AtliQ’s historical sales data and built an **inter
 
 ## 📂 Repository Contents  
 
-- `atliq_report.pdf` — Project summary & insights  
-- `atliq_sql_data_analysis.ipynb` — Python + SQL analysis  
-- `atliq_data_visualization.twb` — Tableau workbook  
-- `atliq_dashboard.pbix` — Power BI dashboard  
+- `report.pdf` — Project summary & insights  
+- `sql_data_analysis.ipynb` — Python + SQL analysis  
+- `Priyadharshini_P_data_visualization.twb` — Tableau workbook  
+- `dashboard.pbix` — Power BI dashboard  
 - `requirements.txt` — Python dependencies  
 - `/dump` — SQL database dump files  
 - `/img` — Project images & dashboard previews  
@@ -122,10 +122,5 @@ pip install -r requirements.txt
 - Initial upload and exploratory work  
 
 ---
-
-## 🙏 Acknowledgement  
-Problem context inspired by **codebasics AtliQ case study**.  
-Analysis & visualization work completed by **Priyadharshini P**.
-
----
+.
 
