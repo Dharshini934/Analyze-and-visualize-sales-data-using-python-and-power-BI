@@ -1,12 +1,9 @@
-# 📊 Mini Project: AtliQ Sales Data Analysis & Dashboard Visualization
+#  Sales Data Analysis & Dashboard Visualization
 `SQL` `Power BI` `Tableau` `Python` `Data Analysis` `Data Visualization`
-
-👩‍💻 **Author: Priyadharshini P**
 
 ---
 
 ## 🔎 Project Overview  
-AtliQ is a B2B hardware and peripheral manufacturer headquartered in Mumbai with multiple branches across India. Recently, the Sales Director observed a decline in revenue and needed help understanding **where sales were dropping and why**.
 
 In this project, I analyzed AtliQ’s historical sales data and built an **interactive dashboard** to support data-driven decision-making.
 
@@ -68,7 +65,6 @@ In this project, I analyzed AtliQ’s historical sales data and built an **inter
 ⭐ KPI tracking — Revenue, Cost, Price  
 ⭐ Comparison & trend visualizations  
 
-![Dashboard Preview](img/atliq_dashboard_pbi.png)
 
 ---
 
